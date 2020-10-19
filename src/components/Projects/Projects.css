@@ -1,0 +1,40 @@
+.projects-title-row {
+  margin-bottom: 20px;
+}
+
+img {
+  width: 90%;
+  height: 50%;
+}
+
+h5 {
+  padding-left: 30%;
+  padding-right: 30%;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  border-bottom: 1px solid #c9c9c9;
+  border-top: 1px solid #c9c9c9;
+}
+
+.projects-info-row {
+  height: 44vh;
+  overflow-y: auto;
+}
+
+.projects-info-row-mobile p {
+  text-align: left;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.projects-nl-container,
+.projects-tq-container {
+  margin-top: 100px;
+}
+
+.projects-evc-links,
+.projects-nl-links {
+  text-align: left;
+  display: flex;
+  justify-content: space-between;
+}

@@ -1,0 +1,10 @@
+.contact-email-row,
+.contact-github-row,
+.contact-linkedin-row {
+  margin-top: 40px;
+}
+
+.contact-component-mobile {
+  padding-left: 15px;
+  padding-right: 15px;
+}

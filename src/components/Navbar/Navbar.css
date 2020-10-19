@@ -1,0 +1,21 @@
+.row {
+  box-shadow: 2px 2px 1px 1px #888888;
+  border: 1px solid #504f4f;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.navbar-container {
+  height: 50vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border-right: 1px solid #c9c9c9;
+  padding-right: 70px;
+  margin-top: 40px;
+}
+
+.link {
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.671);
+}

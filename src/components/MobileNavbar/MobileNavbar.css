@@ -1,0 +1,18 @@
+.mnavbar-about-row {
+  padding-bottom: 8px;
+  margin-bottom: 7px;
+}
+
+.mnavbar-projects-row {
+  margin-bottom: 7px;
+}
+
+.mnavbar-contact-row {
+  margin-top: 15px;
+}
+
+.link {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid #c9c9c9;
+}
