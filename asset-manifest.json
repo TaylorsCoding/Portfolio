@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.ca3dfb46.chunk.css",
+    "main.js": "/Portfolio/static/js/main.9dd696e7.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.9dd696e7.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.e440ee5a.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.e440ee5a.js.map",
+    "static/js/2.ca57223e.chunk.js": "/Portfolio/static/js/2.ca57223e.chunk.js",
+    "static/js/2.ca57223e.chunk.js.map": "/Portfolio/static/js/2.ca57223e.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "precache-manifest.61be4752093bfee2a25a53a9d2daef83.js": "/Portfolio/precache-manifest.61be4752093bfee2a25a53a9d2daef83.js",
+    "service-worker.js": "/Portfolio/service-worker.js",
+    "static/css/main.ca3dfb46.chunk.css.map": "/Portfolio/static/css/main.ca3dfb46.chunk.css.map",
+    "static/js/2.ca57223e.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.ca57223e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Portfolio/static/media/clouds.0029ddd1.jpg",
+    "static/media/evchome.png": "/Portfolio/static/media/evchome.c529121a.png",
+    "static/media/evcmap.png": "/Portfolio/static/media/evcmap.669238cf.png",
+    "static/media/neverlost.png": "/Portfolio/static/media/neverlost.55c156e3.png",
+    "static/media/profpic.jpeg": "/Portfolio/static/media/profpic.25cb5863.jpeg",
+    "static/media/quizAPP.png": "/Portfolio/static/media/quizAPP.df7d373b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e440ee5a.js",
+    "static/js/2.ca57223e.chunk.js",
+    "static/css/main.ca3dfb46.chunk.css",
+    "static/js/main.9dd696e7.chunk.js"
+  ]
+}
