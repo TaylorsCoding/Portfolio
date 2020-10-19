@@ -16,6 +16,7 @@ class App extends Component {
 
   componentDidMount() {
     const { history } = this.props;
+    console.log("here");
     history.push("/");
     this.animateBackground();
   }
