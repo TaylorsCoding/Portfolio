@@ -71,6 +71,11 @@ export default class MainContent extends Component {
                         path={"/contact"}
                         render={(props) => <Contact {...props} mobile={true} />}
                       />
+                      <Route
+                        exact
+                        path={"/Portfolio"}
+                        render={(props) => <AboutMe {...props} mobile={true} />}
+                      />
                       <Route component={NotFoundPage} />
                     </Switch>
                   </Information>
