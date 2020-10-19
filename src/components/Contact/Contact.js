@@ -22,7 +22,7 @@ export default class Contact extends Component {
                 </a>
               </div>
               <div className="contact-linkedin-row">
-                <a href="https://github.com/codingbeginner19">
+                <a href="https://www.linkedin.com/in/william-simpson-227b621a8/">
                   <h3>LinkedIn</h3>
                 </a>
               </div>

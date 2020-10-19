@@ -6,7 +6,7 @@
   padding-bottom: 3%;
   margin-top: 10px;
   border-radius: 10px;
-  height: 70%;
+  height: 70vh;
   color: rgba(0, 0, 0, 0.671);
   display: none;
 }
@@ -60,20 +60,20 @@
   overflow-y: scroll;
 }
 
-@media only screen and (max-height: 575px) {
-  .maincontent-desktop {
-    display: none;
-  }
-  .maincontent-mobile {
-    display: block;
-  }
-}
-
 @media only screen and (min-width: 1025px) {
   .maincontent-desktop {
     display: block;
   }
   .maincontent-mobile {
     display: none;
+  }
+}
+
+@media only screen and (max-height: 575px) {
+  .maincontent-desktop {
+    display: none;
+  }
+  .maincontent-mobile {
+    display: block;
   }
 }

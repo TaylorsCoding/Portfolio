@@ -7,17 +7,7 @@ import MainContent from "../MainContent/MainContent";
 import "./App.css";
 
 class App extends Component {
-  static defaultProps = {
-    location: {},
-    history: {
-      push: () => {},
-    },
-  };
-
   componentDidMount() {
-    const { history } = this.props;
-    console.log("here");
-    history.push("/");
     this.animateBackground();
   }
 
